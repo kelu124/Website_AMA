@@ -46,3 +46,5 @@ First! Some commit.
 ## [13:11] Embedding mechanisms saved
 
 So let's take a break. Going to get the pages, run the embeddings, and we'll see what happens next. Counter on hold at 1h30.
+
++10mins: Articles selected, cleaned and processed. Launching embedding. Prepped the AskingQuestion tool.
