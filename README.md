@@ -24,3 +24,19 @@ For cleaning and extracting text, apart from usual beautiful soup, I had heard a
 [https://adrien.barbaresi.eu/blog/trafilatura-main-text-content-python.html](https://adrien.barbaresi.eu/blog/trafilatura-main-text-content-python.html)
 
 Let's get going !
+
+## [11:50] URLs cleared and processed
+
+Output : [a cache folder](data/cache/). Gitignored here.
+
+URLs captured in [here](data/pages.parquet.gzip)
+
+## [12:00] Getting pages works! Onto getting text
+
+Trafilatura seems easier than expected.
+
+Text cleaned captured in [here](data/content.parquet.gzip)
+
+## [12:05] Trying embedding.
+
+First! Some commit.

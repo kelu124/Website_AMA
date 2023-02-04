@@ -1,0 +1,13 @@
+User-agent: *
+Crawl-delay: 3
+Sitemap: https://www.mottmac.com/sitemap.xml
+Disallow: /*?term=*
+Disallow:  /*?appliedFilters=*
+Disallow: /ethicsau
+Disallow: /admin
+Disallow: https://mottmac.icentric-amp.com
+Disallow: https://mottmac.icentric-amp.com/*
+Disallow: /*?showcookieconsent*
+Disallow: /*?nocache*
+
+Disallow: /.well-known/*
