@@ -2,7 +2,7 @@
 
 So .. stupid idea to help a friend .. can we do a chatbot to help them get information from a website with informatio spread across multiple page? Let's try and take 2h to tackle this
 
-## Start and background
+## [11:40] Start and background
 
 Original idea of this - seems a mix of GPT3 and embedding would work to process large corpus of text.
 
@@ -40,3 +40,9 @@ Text cleaned captured in [here](data/content.parquet.gzip)
 ## [12:05] Trying embedding.
 
 First! Some commit.
+
+[12:28] : adding metadata to the general dataframe
+
+## [13:11] Embedding mechanisms saved
+
+So let's take a break. Going to get the pages, run the embeddings, and we'll see what happens next. Counter on hold at 1h30.
