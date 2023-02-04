@@ -47,4 +47,29 @@ First! Some commit.
 
 So let's take a break. Going to get the pages, run the embeddings, and we'll see what happens next. Counter on hold at 1h30.
 
-+10mins: Articles selected, cleaned and processed. Launching embedding. Prepped the AskingQuestion tool.
++10mins: Articles selected, cleaned and processed. Launching embedding. Prepped the AskingQuestion tool.exist
+
++5mins: API seems to be unstable. Backing up regularly the embedding results
+
+## [16:30] All done. 15mins spare.
+
+![img](images/energy.png)
+
+![img](images/lta.png)
+
+![img](images/MM.png)
+
+
+## [16:46] What next ?
+
+Streamlit app ?
+
+https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846
+
+## [18:45] Streamlit app deployed
+
+It lives [there](https://kelu124-mmama-app-grp4xd.streamlit.app/) .
+
+#### Demo:
+
+![img](images/st.png)
